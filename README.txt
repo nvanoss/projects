@@ -1,4 +1,4 @@
-Updated 07/20/2020                                                                                 |
+Updated 07/21/2020                                                                                 |
 
 Hello and welcome to my repository!
 
@@ -19,7 +19,8 @@ LABVIEW: this directory contains code that was used to automate electro-polling 
 	HIV and other pathogens. Look inside for a more detailed README.
 
 PCB/Distributed_Crosstalk_Project: For the final project of my High-Speed Digital Design class, I
-	designed a custom experiment on an FR-4 board that investigates the effets of distributed
-	crosstalk on digital signals.
+	designed a custom experiment on an FR-4 printed circuit board that investigates the effects
+	of distributed crosstalk on digital signals.
 
-PSIM: this directory contains simulations of some power conversion systems I investigated.
+PSIM: this directory contains simulations of some power conversion systems I investigated as part of
+	my power electronics class.
