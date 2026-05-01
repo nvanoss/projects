@@ -22,5 +22,10 @@ PCB/Distributed_Crosstalk_Project: For the final project of my High-Speed Digita
 	designed a custom experiment on an FR-4 printed circuit board that investigates the effects
 	of distributed crosstalk on digital signals.
 
+plant.oss.v1.0: this directory contains images and design files for my custom household automation
+	circuit board on a compact footprint using a PIC12 MCU with a header pins for rapid firmware
+	prototyping, dual SSR control, a potentiometer dial for user input, and free I/O headers for
+	modular builds.
+
 PSIM: this directory contains simulations of some power conversion systems I investigated as part of
 	my power electronics class.
